@@ -46,4 +46,4 @@ Adicionar o Facade no arquivo `config/app.php`
 Documentação oficial [Laravel DOMPDF](https://github.com/barryvdh/laravel-dompdf)
 
 ### Certificado de conclusão do curso 
-> curso ainda em andamento
+> [Centificado conclusão](https://www.udemy.com/certificate/UC-b63250ab-388b-4bb5-9894-7e4dd0710ed3/)
